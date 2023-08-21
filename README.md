@@ -8,7 +8,7 @@
 [2Dentist.online](https://2dentist.online) - Services for dentists and practical doctors.
 
 [Assist 2Dentist](https://assist.2dentist.online) - Mobile application for dental consultation and daily practice.
-
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 [Eduhelper.ru](https://eduhelper.ru) - Web and Mobile application for doctors. Find answers on goverment tests
 
 [dr-gilmutdinov.com](https://dr-gilmutdinov.com) - Personal doctor web application.
