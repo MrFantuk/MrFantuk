@@ -5,6 +5,8 @@
 # 💻 Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 # 🌱 My Projects:
+
+### 2Dentist
 [2Dentist.online](https://2dentist.online) - Services for dentists and practical doctors.
 
 [Assist 2Dentist](https://assist.2dentist.online) - Mobile application for dental consultation and daily practice.
@@ -13,8 +15,13 @@
 
 
 ---
+### Edumi
 [edumi](https://edumi.2dentist.online) - Web and Mobile application for doctors. Find answers on goverment tests
 
+📱[AppStore](https://apps.apple.com/ru/app/edumi/id6502229268)
+
+---
+### Dr. Gilmutdinov 
 [dr-gilmutdinov.com](https://dr-gilmutdinov.com) - Personal doctor web application.
 
 
