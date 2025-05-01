@@ -21,13 +21,7 @@ Web and Mobile application for doctors. Find answers on goverment tests
 🔗[Web site](https://edumi.2dentist.online)
 📱[AppStore](https://apps.apple.com/ru/app/edumi/id6502229268)
 
----
-### Dr. Gilmutdinov 
-[dr-gilmutdinov.com](https://dr-gilmutdinov.com) - Personal doctor web application.
 
-
----
-[![](https://visitcount.itsvg.in/api?id=MrFantuk&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/2dentist) 
