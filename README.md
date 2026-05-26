@@ -1,5 +1,5 @@
-<div align="center">
-  <h1>Den Kirillov</h1>
+<div align="left">
+  <h1>Den</h1>
   <code>flutter developer · building for healthcare</code>
 </div>
 
